@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\drawable_surback2.jpg.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\drawable\\surback2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\drawable_survey_login.jpg.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\drawable\\survey_login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\drawable_ssrvevy1.jpg.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\drawable\\ssrvevy1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.surveyapplication.app-debug-40:/drawable_surevy11.jpg.flat",
+        "source": "com.example.surveyapplication.app-main-42:/drawable/surevy11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\drawable_survey_signup.jpg.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\drawable\\survey_signup.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\drawable_surevy11.jpg.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\drawable\\surevy11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\drawable_surv4.jpg.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\drawable\\surv4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-debug-40:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SYED MUBARAK SHA.E\\.gradle\\daemon\\8.9\\com.example.surveyapplication.app-main-42:\\drawable-v24\\ic_launcher_foreground.xml"
+    }
+]
